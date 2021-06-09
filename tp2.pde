@@ -135,10 +135,10 @@ void draw () {
     pry2 = int(random(6000,6200));
   }
 
-  pty=pty-2;
-  pty2=pty2-2;
-  piy=piy-2;
-  pcy=pcy-2;
-  pry=pry-2;
-  pry2=pry2-2;
+  pty=pty-3;
+  pty2=pty2-3;
+  piy=piy-3;
+  pcy=pcy-3;
+  pry=pry-3;
+  pry2=pry2-3;
 }
