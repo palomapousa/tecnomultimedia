@@ -1,0 +1,10 @@
+¡Tu objetivo es asesinar a tu esposo!
+
+Para ello debes moverte con las flechas del teclado, una vez que
+te acerques a él en la parte superior derecha de la pantalla 
+aparecerá un círculo rojo, esto indica que estás en rango, 
+deberás entonces clickear enter para encestar una puñalada. 
+Debes encestar 8 puñaladas en un período de 40 segundos o perderás el juego.
+
+¡Cuidado! A medida que pase el tiempo tu esposo 
+se irá moviendo más y más rápido, dificultando tu tarea.
